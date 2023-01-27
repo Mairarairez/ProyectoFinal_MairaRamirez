@@ -1,8 +1,12 @@
-div{
-    background-color: #efdebe;
+
+ div{
+    background-color: #EFF4F2;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
-app-social{
-    float: right;
-    margin-top: 20px;
-    margin-right: 10px;
+
+.container{
+    max-width: 1400px;
+    margin: auto;
 }

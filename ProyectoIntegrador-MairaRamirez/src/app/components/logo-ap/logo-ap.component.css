@@ -1,4 +1,8 @@
-#logoAP{
-    width: 150px;
-    
+ #logoAP{
+    padding: 25px 30px;
+    width: 200px;
+    height: 100px;
+}
+div{
+    display: flex;
 }

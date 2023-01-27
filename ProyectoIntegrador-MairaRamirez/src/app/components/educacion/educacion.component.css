@@ -1,0 +1,13 @@
+div{
+    background-color: #EFF4F2;
+}
+h1, h2, h3{
+    display: inline;
+}
+ul{
+    list-style: none;
+}
+.container{
+    max-width: 1400px;
+    margin: auto;
+}
